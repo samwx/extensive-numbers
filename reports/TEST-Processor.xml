@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Processor" errors="0" tests="5" failures="0" time="0.008" timestamp="2017-11-26T12:59:47">
+  <testcase classname="Processor" name="Should convert two decimal digits" time="0.007"></testcase>
+  <testcase classname="Processor" name="Should convert three decimal digits" time="0"></testcase>
+  <testcase classname="Processor" name="Should be a integer" time="0"></testcase>
+  <testcase classname="Processor" name="Should be a positive number" time="0"></testcase>
+  <testcase classname="Processor" name="Should be less than 1000" time="0"></testcase>
+</testsuite>
+</testsuites>
